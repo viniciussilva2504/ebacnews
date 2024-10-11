@@ -24,16 +24,18 @@ header {
 }
 
 header h1 {
+    height: 80px;
     margin-left: 20px;
     margin-right: 20px;
     margin-bottom: 10px;
     background-color: #ccc;
+    padding-top: 20px;
+    padding-left: 10px;
 }
 
 .submenu {
     display: none;
     border: 1px solid red;
-    background-color: #fff;
     position: absolute;
     left: 0;
     width: 300px;
